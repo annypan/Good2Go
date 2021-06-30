@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menuList"
+        android:title="@string/list"
+        android:icon="@drawable/outline_list_24"
+        app:showAsAction="ifRoom">
+    </item>
+    <item android:id="@+id/lightbulb"
+        android:title="@string/feeling_lucky"
+        android:icon="@drawable/outline_lightbulb_24"
+        app:showAsAction="ifRoom">
+
+    </item>
+</menu>

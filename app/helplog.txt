@@ -1,0 +1,9 @@
+21/04/10, 8:19pm. Referenced Stack Overflow for how to return after StartActivityForResult. https://stackoverflow.com/questions/43304615/how-to-return-after-startactivityforresult.
+21/04/10, 8:31pm. Referenced Material Colors for color theme ideas. https://saruwakakun.com/en/material-color
+21/04/10, 8:46pm. Referenced Material.io for icon download. https://fonts.google.com/icons
+21/04/12, 2:46pm. Referenced Material Design for MaterialCardView design ideas. https://material.io/components/cards/android#card
+21/04/14, 10:26am. Referenced Stack Overflow for cropping bitmap. https://stackoverflow.com/questions/6908604/android-crop-center-of-bitmap
+21/04/14, 2:39pm. Referenced Stack Overflow for changing the app icon. https://stackoverflow.com/questions/26615889/how-do-you-change-the-launcher-logo-of-an-app-in-android-studio
+21/04/19, 10:34am. Referenced Stack Overflow for handling deprecated getBitmap. https://stackoverflow.com/questions/56651444/deprecated-getbitmap-with-api-29-any-alternative-codes
+21/04/19, 11:09pm. Referenced Stack Overflow for using different option menus. https://stackoverflow.com/questions/3270206/same-option-menu-in-all-activities-in-android
+21/04/25, 11:06pm. Referenced CSDN for EACCES: permission denied. https://blog.csdn.net/qq_40881680/article/details/108701706

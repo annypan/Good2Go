@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Good2Go</string>
+    <string name="title_activity_maps">Good2Go</string>
+    <string name="see_all_posts">SEE ALL POSTS</string>
+    <string name="enter_title_here">Enter Title Here</string>
+    <string name="enter_description_here">Enter Description Here</string>
+    <string name="take_photo">TAKE PHOTO</string>
+    <string name="save_post">SAVE POST</string>
+    <string name="cancel">CANCEL</string>
+    <string name="open_gallery">OPEN GALLERY</string>
+    <string name="go_back">Go back</string>
+    <string name="delete">Delete</string>
+    <string name="map">Map</string>
+    <string name="list">list</string>
+    <string name="feeling_lucky">Feeling Lucky</string>
+</resources>
