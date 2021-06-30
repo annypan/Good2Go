@@ -12,3 +12,5 @@ To explore posts near a certain location, you can long click on the map, and the
 To see all the posts, click on the list icon in the options menu. To go from the list of posts to the map, click on the marker icon in the options menu. 
 
 To explore a random place using in the "Feeling Lucky" mode, click on the lightbulb icon in the options menu. This will fetch a random post and display its contents.
+
+Feel free to check out the demo here: https://drive.google.com/file/d/1IfdjlznShVHgCPV11T4MK1_u33GEmL6p/view?usp=sharing
